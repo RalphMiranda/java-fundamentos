@@ -26,3 +26,4 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
   - Aula 3.4 - Explorando a classe Scanner
     - ```scanner.nextInt()```
   - Aula 3.5 - Entendendo a diferença entre next() e nextLine() no Scanner
+  - Aula 3.6 - Interpolação de Strings
