@@ -10,7 +10,8 @@ public class Main {
         //int numero = Integer.parseInt(scanner.nextLine());
         int numero = scanner.nextInt();
 
-        System.out.println(numero);
+        System.out.println("Digite a operação: ");
+        char operacao = scanner.next().charAt(0);
 
         scanner.close();
     }
