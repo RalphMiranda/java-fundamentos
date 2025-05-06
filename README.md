@@ -16,7 +16,7 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
     - "Olá, Mundo!"
   - Aula 2.4 - Escrevendo mensagens no console
     - ```System.out.println``` e ```System.out.print```
-  - Desafio de Código - 2. Primeiros contatos com Java
+  - Desafio de Código 2.1
 
 3. Lidando com variáveis e tipos de dados
   - Aula 3.2 - Variáveis, streams e o Scanner
@@ -27,3 +27,4 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
     - ```scanner.nextInt()```
   - Aula 3.5 - Entendendo a diferença entre next() e nextLine() no Scanner
   - Aula 3.6 - Interpolação de Strings
+  - Desafio de código 3.1
