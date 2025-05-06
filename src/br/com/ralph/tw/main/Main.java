@@ -17,6 +17,22 @@ public class Main {
 
         System.out.println(String.format("Você quer a fazer operação %d %c %d", numero1, operacao, numero2));
 
+        int resultado = 0;
+
+        if (operacao == '+') {
+            resultado = numero1 + numero2;
+        } else if (operacao == '-') {
+            resultado = numero1 - numero2;
+        } else if (operacao == '*') {
+            resultado = numero1 * numero2;
+        } else if (operacao == '/') {
+            resultado = numero1 / numero2;
+        } else {
+            System.out.println("Operação inválida");
+        }
+
+        System.out.println(String.format("%d %c %d = %d", numero1, operacao, numero2, resultado));
+
         scanner.close();
     }
 }

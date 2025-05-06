@@ -28,3 +28,6 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
   - Aula 3.5 - Entendendo a diferença entre next() e nextLine() no Scanner
   - Aula 3.6 - Interpolação de Strings
   - Desafio de código 3.1
+
+4. Estruturas de decisão, repetição e um pouco de coleções
+  - Aula 4.2 - Estruturas de tomada de decisão - if
