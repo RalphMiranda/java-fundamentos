@@ -32,3 +32,4 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
 4. Estruturas de decisão, repetição e um pouco de coleções
   - Aula 4.2 - Estruturas de tomada de decisão - if
   - Aula 4.4 - Estruturas de tomada de decisão - switch
+  - Aula 4.5 - Primeiros contatos com coleções - ArrayList

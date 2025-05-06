@@ -1,5 +1,6 @@
 package br.com.ralph.tw.main;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
@@ -49,7 +50,11 @@ public class Main {
                 break;
         }
 
-        System.out.println(String.format("%d %c %d = %d", numero1, operacao, numero2, resultado));
+        ArrayList<String> historico = new ArrayList<>();
+        String entradaHistorico = String.format("%d %c %d = %d", numero1, operacao, numero2, resultado);
+        historico.add(entradaHistorico);
+
+        System.out.println(entradaHistorico);
 
         scanner.close();
     }
