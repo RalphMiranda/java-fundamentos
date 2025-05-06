@@ -21,4 +21,7 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
 3. Lidando com variáveis e tipos de dados
   - Aula 3.2 - Variáveis, streams e o Scanner
   - Aula 3.3 - Entendendo o conceito de cast
+    - Cast explícito
     - ```int numero = Integer.parseInt(scanner.nextLine());```
+  - Aula 3.4 - Explorando a classe Scanner
+    - ```scanner.nextInt()```

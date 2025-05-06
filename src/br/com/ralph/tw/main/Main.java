@@ -7,7 +7,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite um número: ");
-        int numero = Integer.parseInt(scanner.nextLine());
+        //int numero = Integer.parseInt(scanner.nextLine());
+        int numero = scanner.nextInt();
 
         System.out.println(numero);
 
