@@ -13,7 +13,7 @@ public class Main {
 
         while (acao > 0) {
             if (acao == 1) {
-                System.out.println("=== Operação Matemática ===");
+                System.out.println("\n=== Operação Matemática ===");
 
                 System.out.print("Digite o primeiro número: ");
                 int numero1 = scanner.nextInt();
@@ -51,10 +51,24 @@ public class Main {
                 System.out.println(entradaHistorico);
 
             } else if (acao == 2) {
-                System.out.println("=== Histórico de Operações");
+                System.out.println("\n=== Histórico de Operações");
 
                 System.out.println(String.format("Você realizou %d operações", historico.size()));
-            } 
+
+                for (int i = 0; i < historico.size(); i++) {
+                    System.out.println(historico.get(i));
+                }
+            } else {
+                System.out.println("Opção inválida!");
+            }
+
+            System.out.println("\n=== O que deseja fazer? ===");
+            System.out.println("0. Sair");
+            System.out.println("1. Operações Matemáticas");
+            System.out.println("2. Histórico de Operações");
+            System.out.print("Opção: ");
+
+            acao = scanner.nextInt();
 
         }
 
