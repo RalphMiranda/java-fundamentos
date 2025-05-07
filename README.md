@@ -36,4 +36,5 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
   - Aula 4.6 - Estruturas de repetição - while
   - Aula 4.7 - Estruturas de repetição - for
   - Aula 4.8 - Primeiros contatos com expressões lambda
-  - Desafio de Código 4.1
+  - Desafio de código 4.1
+  - Desafio de código 4.2
