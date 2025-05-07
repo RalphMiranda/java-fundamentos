@@ -38,3 +38,5 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
   - Aula 4.8 - Primeiros contatos com expressões lambda
   - Desafio de código 4.1
   - Desafio de código 4.2
+  - Desafio de código 4.3
+  - Desafio de código 4.4
