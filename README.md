@@ -40,3 +40,4 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
   - Desafio de código 4.2
   - Desafio de código 4.3
   - Desafio de código 4.4
+  - Desafio de código 4.5
