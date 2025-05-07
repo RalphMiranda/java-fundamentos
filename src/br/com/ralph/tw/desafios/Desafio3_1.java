@@ -14,7 +14,7 @@ Treinaweb
 10
  */
 
-public class Desavio3 {
+public class Desafio3_1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

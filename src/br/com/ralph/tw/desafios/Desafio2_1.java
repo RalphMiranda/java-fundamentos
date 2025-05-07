@@ -13,7 +13,7 @@ Saída esperada
 Bem-vindo a formação Java da Treinaweb!"
  */
 
-public class Desafio2 {
+public class Desafio2_1 {
 
     public static void main(String[] args) {
         System.out.println("Olá Mundo!");
