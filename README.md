@@ -49,3 +49,4 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
   - Aula 6.2 - Lidando com situações inesperadas: as exceções
   - Desafio de código 6.1
   - Desafio de código 6.2
+  - Desafio de código 6.3
