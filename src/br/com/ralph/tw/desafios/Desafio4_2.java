@@ -24,7 +24,7 @@ Estranho
  */
 public class Desafio4_2 {
 
-    public static final Scanner scanner = new Scanner(System.in);
+    private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         int N = scanner.nextInt();
