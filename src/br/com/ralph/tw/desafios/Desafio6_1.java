@@ -64,6 +64,8 @@ public class Desafio6_1 {
             }
         }
 
+        scanner.close();
+
     }
 
 }

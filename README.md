@@ -48,3 +48,4 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
 6. Lidando com situações imprevistas: tratamento de exceções
   - Aula 6.2 - Lidando com situações inesperadas: as exceções
   - Desafio de código 6.1
+  - Desafio de código 6.2
