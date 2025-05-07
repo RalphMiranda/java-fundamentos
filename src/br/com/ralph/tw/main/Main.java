@@ -55,9 +55,11 @@ public class Main {
 
                 System.out.println(String.format("Você realizou %d operações", historico.size()));
 
-                for (int i = 0; i < historico.size(); i++) {
-                    System.out.println(historico.get(i));
-                }
+                //for (int i = 0; i < historico.size(); i++) {
+                //    System.out.println(historico.get(i));
+                //}
+
+                historico.forEach(itemHistorico -> System.out.println(itemHistorico));
             } else {
                 System.out.println("Opção inválida!");
             }

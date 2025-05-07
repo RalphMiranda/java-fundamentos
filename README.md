@@ -35,3 +35,4 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
   - Aula 4.5 - Primeiros contatos com coleções - ArrayList
   - Aula 4.6 - Estruturas de repetição - while
   - Aula 4.7 - Estruturas de repetição - for
+  - Aula 4.8 - Primeiros contatos com expressões lambda
