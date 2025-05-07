@@ -42,3 +42,8 @@ O deste projeto é compreender os princípios fundamentais da plataforma Java co
   - Desafio de código 4.4
   - Desafio de código 4.5
   - Desafio de código 4.6
+
+5. Depuração de código
+
+6. Lidando com situações imprevistas: tratamento de exceções
+  - Aula 6.2 - Lidando com situações inesperadas: as exceções

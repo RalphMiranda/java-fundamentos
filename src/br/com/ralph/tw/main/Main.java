@@ -1,6 +1,7 @@
 package br.com.ralph.tw.main;
 
 import java.util.ArrayList;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
@@ -15,8 +16,15 @@ public class Main {
             if (acao == 1) {
                 System.out.println("\n=== Operação Matemática ===");
 
-                System.out.print("Digite o primeiro número: ");
-                int numero1 = scanner.nextInt();
+                int numero1 = 0;
+                try {
+                    System.out.print("Digite o primeiro número: ");
+                    numero1 = scanner.nextInt();
+                } catch (InputMismatchException e) {
+                    System.out.println(String.format("Ocorreu um erro de formato: %s. o primeiro número receberá o valor 1.", e.getMessage()));
+                    scanner.nextLine(); //utilizado para limpar o buffer de entrada, assim, o próximo next() poderá recuperar o valor correto
+                    numero1 = 1;
+                }
 
                 System.out.print("Digite a operação: ");
                 char operacao = scanner.next().charAt(0);
