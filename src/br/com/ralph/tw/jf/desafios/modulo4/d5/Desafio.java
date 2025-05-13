@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo4.d5;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -15,7 +15,7 @@ PHP
 C#
 Python
 JavaScript */
-public class Desafio4_5 {
+public class Desafio {
 
     private static final Scanner scanner = new Scanner(System.in);
 

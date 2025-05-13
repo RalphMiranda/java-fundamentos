@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo6.d1;
 
 import java.util.Scanner;
 
@@ -39,7 +39,7 @@ Saída esperada
 -100000000000000 pode ser armazenado nos tipos:
 * long */
 
-public class Desafio6_1 {
+public class Desafio {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

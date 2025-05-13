@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo6.d3;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -18,7 +18,7 @@ Gerou o erro InputMismatchException
 -12
 */
 
-public class Desafio6_3 {
+public class Desafio {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

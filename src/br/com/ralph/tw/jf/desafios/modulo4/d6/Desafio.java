@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo4.d6;
 
 import java.util.Scanner;
 
@@ -35,7 +35,7 @@ Sendo passado duas sequências:
 5 + 1 x 3 + 2 x 3 + 4 x 3 + 8 x 3 + 16 x 3 = 98.
 Obs: No Java utilize o método Math.pow para potenciação. */
 
-public class Desafio4_6 {
+public class Desafio {
 
     private static final Scanner scanner = new Scanner(System.in);
 

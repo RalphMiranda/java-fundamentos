@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo2.d1;
 
 /* DESAFIO DE CÓDIGO - 2. PRIMEIROS CONTATOS COM JAVA
 Complete o código no ponto indicado, de forma que ele exiba no console as mensagens "Olá Mundo!" e "Bem-vindo a formação Java da Treinaweb!".
@@ -13,7 +13,7 @@ Saída esperada
 Bem-vindo a formação Java da Treinaweb!"
  */
 
-public class Desafio2_1 {
+public class Desafio {
 
     public static void main(String[] args) {
         System.out.println("Olá Mundo!");

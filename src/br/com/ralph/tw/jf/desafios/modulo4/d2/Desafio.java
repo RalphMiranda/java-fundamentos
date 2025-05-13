@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo4.d2;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ Saída esperada 2
 Estranho
 
  */
-public class Desafio4_2 {
+public class Desafio {
 
     private static final Scanner scanner = new Scanner(System.in);
 

@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo4.d4;
 
 import java.util.Scanner;
 
@@ -20,7 +20,7 @@ Saída esperada
 2 x 8 = 16
 2 x 9 = 18
 2 x 10 = 20 */
-public class Desafio4_4 {
+public class Desafio {
 
     private static final Scanner scanner = new Scanner(System.in);
 

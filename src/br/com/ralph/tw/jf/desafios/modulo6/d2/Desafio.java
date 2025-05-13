@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo6.d2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -19,7 +19,7 @@ Dica:
 
 O método Scanner.hasNextLine() pode ser útil na resolução deste desafio. */
 
-public class Desafio6_2 {
+public class Desafio {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

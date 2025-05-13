@@ -1,4 +1,4 @@
-package br.com.ralph.tw.desafios;
+package br.com.ralph.tw.jf.desafios.modulo3.d1;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ Treinaweb
 10
  */
 
-public class Desafio3_1 {
+public class Desafio {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
